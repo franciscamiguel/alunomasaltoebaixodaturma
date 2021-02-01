@@ -1,0 +1,11 @@
+C:\Users\Note positivo\Documents\alunomasaltoebaixodaturma\bin\Debug\netcoreapp3.1\alunomasaltoebaixodaturma.exe
+C:\Users\Note positivo\Documents\alunomasaltoebaixodaturma\bin\Debug\netcoreapp3.1\alunomasaltoebaixodaturma.deps.json
+C:\Users\Note positivo\Documents\alunomasaltoebaixodaturma\bin\Debug\netcoreapp3.1\alunomasaltoebaixodaturma.runtimeconfig.json
+C:\Users\Note positivo\Documents\alunomasaltoebaixodaturma\bin\Debug\netcoreapp3.1\alunomasaltoebaixodaturma.runtimeconfig.dev.json
+C:\Users\Note positivo\Documents\alunomasaltoebaixodaturma\bin\Debug\netcoreapp3.1\alunomasaltoebaixodaturma.dll
+C:\Users\Note positivo\Documents\alunomasaltoebaixodaturma\bin\Debug\netcoreapp3.1\alunomasaltoebaixodaturma.pdb
+C:\Users\Note positivo\Documents\alunomasaltoebaixodaturma\obj\Debug\netcoreapp3.1\alunomasaltoebaixodaturma.csprojAssemblyReference.cache
+C:\Users\Note positivo\Documents\alunomasaltoebaixodaturma\obj\Debug\netcoreapp3.1\alunomasaltoebaixodaturma.AssemblyInfoInputs.cache
+C:\Users\Note positivo\Documents\alunomasaltoebaixodaturma\obj\Debug\netcoreapp3.1\alunomasaltoebaixodaturma.AssemblyInfo.cs
+C:\Users\Note positivo\Documents\alunomasaltoebaixodaturma\obj\Debug\netcoreapp3.1\alunomasaltoebaixodaturma.dll
+C:\Users\Note positivo\Documents\alunomasaltoebaixodaturma\obj\Debug\netcoreapp3.1\alunomasaltoebaixodaturma.pdb
